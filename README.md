@@ -2,9 +2,9 @@
 
 This template should help get you started developing with Tauri, React and Typescript in Vite.
 
-## development in nix
+## dev env (nix)
 ```bash
-nix-shell -p rustup gcc nodejs_20 pkg-config libsoup webkitgtk
+nix develop
 ```
 
 ## Recommended IDE Setup
